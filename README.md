@@ -47,3 +47,10 @@
 * （1）resnet网络不使用迁移学习训练得到的权重文件：[resnet_ntl_best.pth](https://drive.google.com/file/d/14KxcMyVs9PllQAaUxgOYB6GC8V8rQ4Zv/view?usp=sharing)
 * （2）resnet网络使用迁移学习所用的预训练权重文件：[resnet34-pre.pth](https://drive.google.com/file/d/1jLPvgFgLvii1a435_oIqnD2GI-CrB8E1/view?usp=sharing)
 * （3）resnet网络使用迁移学习训练得到的权重文件：[resNet34.pth](https://drive.google.com/file/d/1W4XSOet_41H4dhTl4wMzjjPsg1sJ1xDA/view?usp=sharing)
+### 信息及维护时间：
+```
+作者：林飞
+创建：2022-05-17
+更新：2022-05-22
+目的：使用Resnet网络对Masked-Face-Dataset数据集进行训练，完成图像分类任务（是否带帽子）。
+```
